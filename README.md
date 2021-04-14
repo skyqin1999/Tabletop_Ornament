@@ -19,6 +19,7 @@
   * An API for weather: https://caiyunapp.com/
   * My tech site to offers updates: https://www.write-down.tech/iot/
 - README:
+  
   (Because Chinese may be garbled, most of the program notes are written in English and translated by Baidu)
   Due to the limitation of memory size, it is impossible to store all the astronaut animation image information in the static area of the program, so I used an extra program to save the image in flash of esp8266.
   If you need to use astronaut boot animation, you need to use additional programs to upload images. After uploading, you can set ANI to true to use boot animation, otherwise boot is a simple loading effect.
