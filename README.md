@@ -11,6 +11,7 @@
 - About project:
   - tech blog: https://www.write-down.tech/junior/tabletop-ornament.html
   - github: https://github.com/skyqin1999/Tabletop_Ornament/
+  - PCB：https://oshwhub.com/skyqin1999/clock
 - Some Tool Links:
   * Display library: https://github.com/olikraus/u8g2/wiki/u8g2reference
   * Taichi Chinese ESP8266 Doc: http://www.taichi-maker.com/homepage/iot-development/iot-dev-reference/esp8266-c-plus-plus-reference/
