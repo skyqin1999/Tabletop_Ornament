@@ -1,8 +1,6 @@
 # Tabletop_Ornament
 
-
 > 此项目正在重构中，有意向一起来开发的同志提一个issue~
-
 
 更新：更新一个B站粉丝页面
 
@@ -14,16 +12,16 @@
   - Weather warning information
   - Countdown function
 - About project:
-  - tech blog: https://www.write-down.tech/junior/tabletop-ornament.html
-  - github: https://github.com/skyqin1999/Tabletop_Ornament/
-  - PCB：https://oshwhub.com/skyqin1999/clock
+  - tech blog: <https://www.write-down.tech/junior/tabletop-ornament.html>
+  - github: <https://github.com/skyqin1999/Tabletop_Ornament/>
+  - PCB：<https://oshwhub.com/skyqin1999/clock>
 - Some Tool Links:
-  * Display library: https://github.com/olikraus/u8g2/wiki/u8g2reference
-  * Taichi Chinese ESP8266 Doc: http://www.taichi-maker.com/homepage/iot-development/iot-dev-reference/esp8266-c-plus-plus-reference/
-  * Arduinojson Library: https://arduinojson.org/v6/assistant/
-  * An API for obtaining geographic information from IP: https://ipstack.com/
-  * An API for weather: https://caiyunapp.com/
-  * My tech site to offers updates: https://www.write-down.tech/iot/
+  - Display library: <https://github.com/olikraus/u8g2/wiki/u8g2reference>
+  - Taichi Chinese ESP8266 Doc: <http://www.taichi-maker.com/homepage/iot-development/iot-dev-reference/esp8266-c-plus-plus-reference/>
+  - Arduinojson Library: <https://arduinojson.org/v6/assistant/>
+  - An API for obtaining geographic information from IP: <https://ipstack.com/>
+  - An API for weather: <https://caiyunapp.com/>
+  - My tech site to offers updates: <https://www.write-down.tech/iot/>
 - README:
   
   (Because Chinese may be garbled, most of the program notes are written in English and translated by Baidu)
@@ -32,4 +30,3 @@
 
   由于内存大小的限制，无法将所有的太空人动画图片信息存储到程序的静态区中，所以我是用了额外的程序将图片存到esp8266的flash中
   如果你需要使用太空人开机动画，你需要使用额外的程序上传图像，完成上传后你可以通过设置ANI为真来使用开机动画，否则开机就是简单的加载效果
-
